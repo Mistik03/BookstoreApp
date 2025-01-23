@@ -8,6 +8,11 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [API Endpoints](#api-endpoints)
+  - [Book](#book)
+  - [Customer](#customer)
+  - [Order](#order)
+  - [Author](#author)
+  - [Categorie](#categorie)
 - [License](#license)
 - [Contributors](#contributors)
 
