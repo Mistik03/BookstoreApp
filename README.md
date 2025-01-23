@@ -12,7 +12,7 @@
   - [Customer](#customer)
   - [Order](#order)
   - [Author](#author)
-  - [Categorie](#categorie)
+  - [Category](#category)
 - [License](#license)
 - [Contributors](#contributors)
 
