@@ -124,7 +124,7 @@ This project eliminates the need for a frontend by allowing testing and interact
 
 ## License
 
-   This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mistik03/BookstoreApp/main/LISENCE.md/) file for details.
+   This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mistik03/BookstoreApp/main/LISENCE/) file for details.
 
 ## Contributors
 
